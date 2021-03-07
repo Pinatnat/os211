@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# WEEK 0
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L23 Discord: join discord, etc.
 ZCZC W00 10 L11 Assignment #1
@@ -11,13 +13,16 @@ ZCZC W00 85 L02 ZOOM: class synchronous
 ZCZC W00 245 L08 Trying to do week 1 assignments
 ZCZC W00 20 L09 AsDos: asking VirtualBox problem
 ZCZC W00 10 L05 GSGS: enable VMS in bios
+
+# WEEK 1
 ZCZC W01 100 L02 ZOOM: class synchronous
 ZCZC W01 30 L08 Trying to learn GitHub Pages
-ZCZC W01 40 L03 Github related: using Virtual Box
+ZCZC W01 40 L03 Github related: using VirtualBox
 ZCZC W01 180 L11 Assignment #1: Doing all of them and create user with username Pinatnat
 ZCZC W01 180 L12 Assignment #2: Read, ATM, and GSGS
-ZCZC W01 120 L13 Assignment #3: Trying vi commands
+ZCZC W01 120 L13 Assignment #3: Trying commands in VirtualBox
 ZCZC W01 40 L14 Assignment #4: copy .bash_aliases using wget
-ZCZC W01 60 L15 Assignment #5: Github pages & github related using VirtualBox
+ZCZC W01 60 L15 Assignment #5: Github related using VirtualBox
 ZCZC W01 10 L16 Assignment #6: Update logs
 ZCZC W01 160 L17 Assignment #7: Top 10 and update myrank.txt
+ZCZC W01 60 L18 Assignement #8: Learn more about Bash, sed, AWK, Regex, and vi
