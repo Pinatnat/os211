@@ -12,10 +12,10 @@ sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://Pinatnat.github.io/os211-sandbox-web/"
+urlweb:           "https://Pinatnat.github.io/os211/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/Pinatnat/os211-sandbox-web/"
-urlghpage:        "https://Pinatnat.github.io/os211-sandbox-web/"
+urlgithub:        "https://github.com/Pinatnat/os211/"
+urlghpage:        "https://Pinatnat.github.io/os211/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 
