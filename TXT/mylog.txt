@@ -13,3 +13,10 @@ ZCZC W00 20 L09 AsDos: asking VirtualBox problem
 ZCZC W00 10 L05 GSGS: enable VMS in bios
 ZCZC W01 100 L02 ZOOM: class synchronous
 ZCZC W01 30 L08 Trying to learn GitHub Pages
+ZCZC W01 180 L11 Assignment #1 : Doing all of them and create user with username Pinatnat
+ZCZC W01 180 L12 Assignment #2 : Read, ATM, and GSGS
+ZCZC W01 120 L13 Assignment #3 : Trying vi command
+ZCZC W01 40 L14 Assignment #4 : Test Bash Alias
+ZCZC W01 60 L15 Assignment #5 : Github pages related
+ZCZC W01 10 L16 Assignment #6 : Update logs
+ZCZC W01 80 L17 Assignment #7 : Top 10 with Week 0 and 1 topics
