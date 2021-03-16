@@ -22,6 +22,7 @@ ZCZC W01 60 L15 Assignment #5: Github related using VirtualBox
 ZCZC W01 10 L16 Assignment #6: Update logs
 ZCZC W01 160 L17 Assignment #7: Top 10 and update myrank.txt
 ZCZC W01 60 L18 Assignment #8: Learn more about Bash, sed, AWK, Regex, and vi
+ZCZC W02 150 L02 ZOOM: class synchronous
 ZCZC W02 60 L11 Assignment #1: Read OSC10 chapter 16 and 17
 ZCZC W02 40 L12 Assignment #2: Demo 2
 ZCZC W02 30 L13 Assignment #3: Create key pair GnuPG
