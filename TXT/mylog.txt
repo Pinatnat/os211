@@ -21,4 +21,14 @@ ZCZC W01 40 L14 Assignment #4: copy .bash_aliases using wget
 ZCZC W01 60 L15 Assignment #5: Github related using VirtualBox
 ZCZC W01 10 L16 Assignment #6: Update logs
 ZCZC W01 160 L17 Assignment #7: Top 10 and update myrank.txt
-ZCZC W01 60 L18 Assignement #8: Learn more about Bash, sed, AWK, Regex, and vi
+ZCZC W01 60 L18 Assignment #8: Learn more about Bash, sed, AWK, Regex, and vi
+ZCZC W02 60 L11 Assignment #1: Read OSC10 chapter 16 and 17
+ZCZC W02 40 L12 Assignment #2: Demo 2
+ZCZC W02 30 L13 Assignment #3: Create key pair GnuPG
+ZCZC W02 20 L14 Assignment #4: Import Public key
+ZCZC W02 10 L15 Assignment #5: Export public key to mypubkey.txt
+zczc W02 60 L16 Assignment #6: Pick rank for top 10 week 1
+ZCZC W02 240 L17 Assignment #7: Top 10 week 2
+ZCZC W02 20 L18 Assignment #8: copy script.sh and edit it
+ZCZC W02 15 L19 Assignment #9: Update logs
+ZCZC W02 20 L20 Assignment #10: make SHA256SUM and sign it as SHA256SUM.asc
