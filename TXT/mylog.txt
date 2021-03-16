@@ -33,3 +33,4 @@ ZCZC W02 240 L17 Assignment #7: Top 10 week 2
 ZCZC W02 20 L18 Assignment #8: copy script.sh and edit it
 ZCZC W02 15 L19 Assignment #9: Update logs
 ZCZC W02 20 L20 Assignment #10: make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 30 L01 Quiz
