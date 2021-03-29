@@ -44,3 +44,13 @@ ZCZC W03 20 L09 AsDos: asking about passphrase
 ZCZC W03 60 L17 Assignment #7: Doing assignment 7
 ZCZC W03 20 L18 Assignment #8: Update script
 ZCZC W03 10 L19 Assignment #9: make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W04 100 L02 ZOOM: class synchronous
+ZCZC W04 60 L11 Assignment #1: Read chapter 9
+ZCZC W04 40 L12 Assignment #2: Demo Week 4
+ZCZC W04 20 L13 Assignment #3: Pick rank for top 10 week 3
+ZCZC W04 120 L14 Assignment #4: Top 10 week 4
+ZCZC W04 60 L15 Assignment #5: Update Log
+ZCZC W04 30 L16 Assignment #6: Download tar for week 4
+ZCZC W04 40 L17 Assignment #7: Update bash script
+ZCZC W04 20 L18 Assignment #8: Make SHA256SUM
+ZCZC W04 10 L09 AsDos: asking about checklist 
