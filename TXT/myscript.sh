@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 # https://www.youtube.com/watch?v=KAXK07ni9gU
 
@@ -59,5 +58,3 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
-
-

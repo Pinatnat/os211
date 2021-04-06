@@ -54,3 +54,10 @@ ZCZC W04 30 L16 Assignment #6: Download tar for week 4
 ZCZC W04 40 L17 Assignment #7: Update bash script
 ZCZC W04 20 L18 Assignment #8: Make SHA256SUM
 ZCZC W04 10 L09 AsDos: asking about checklist 
+ZCZC W05 100 L02 ZOOM: class synchronous
+ZCZC W05 50 L11 Assignment #1: Read chapter 10
+ZCZC W05 30 L12 Assignment #2: Pick rank for top 10 week 4
+ZCZC W05 160 L13 Assignment #3: Top 10 week 5
+ZCZC W05 140 L14 Assignment #4: Download tar for week 5
+ZCZC W05 20 L15 Assignment #5: Update Log
+ZCZC W05 10 L16 Assignment #6: Make SHA256SUM
