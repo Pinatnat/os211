@@ -61,3 +61,4 @@ ZCZC W05 160 L13 Assignment #3: Top 10 week 5
 ZCZC W05 140 L14 Assignment #4: Download tar for week 5
 ZCZC W05 20 L15 Assignment #5: Update Log
 ZCZC W05 10 L16 Assignment #6: Make SHA256SUM
+ZCZC W05 30 L01 Quiz
