@@ -62,3 +62,11 @@ ZCZC W05 140 L14 Assignment #4: Download tar for week 5
 ZCZC W05 20 L15 Assignment #5: Update Log
 ZCZC W05 10 L16 Assignment #6: Make SHA256SUM
 ZCZC W05 30 L01 Quiz
+ZCZC W06 100 L02 ZOOM: class synchronous
+ZCZC W06 30 L01 Quiz
+ZCZC W06 60 L11 Assignment #1: Read chapter 3 and 4
+ZCZC W06 20 L12 Assignment #2: Pick rank for top 10 week 5
+ZCZC W06 160 L13 Assignment #3: Top 10 week 6
+ZCZC W06 120 L14 Assignment #4: Download tar for week 6 and do assignments
+ZCZC W06 20 L15 Assignment #5: Update log
+ZCZC W06 10 L16 Assignment #6: Make SHA256SUM
