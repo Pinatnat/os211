@@ -70,3 +70,10 @@ ZCZC W06 160 L13 Assignment #3: Top 10 week 6
 ZCZC W06 120 L14 Assignment #4: Download tar for week 6 and do assignments
 ZCZC W06 20 L15 Assignment #5: Update log
 ZCZC W06 10 L16 Assignment #6: Make SHA256SUM
+ZCZC W07 100 L02 ZOOM: class synchronous
+ZCZC W07 90 L11 Assignment #1: Read chapter 6, 7, and 8
+ZCZC W07 30 L12 Assignment #2: Pick rank for top 10 week 6
+ZCZC W07 180 L13 Assignment #3: Top 10 week 7
+ZCZC W07 120 L14 Assignment #4: Download tar for week 7 and do assignments
+ZCZC W07 20 L15 Assignment #5: Update log
+ZCZC W07 10 L16 Assignment #6: Make SHA256SUM
